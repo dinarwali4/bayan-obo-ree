@@ -1,0 +1,884 @@
+[
+ {
+  "peak": [
+   41.76875,
+   109.87275
+  ],
+  "cells": 5,
+  "peak_z580": 27.4,
+  "mean_z580": 16.7,
+  "dates": "3/3",
+  "elev": 1608,
+  "fit_580": [
+   [
+    13.3,
+    578.9,
+    27.2
+   ],
+   [
+    9.4,
+    580.2,
+    28.2
+   ],
+   [
+    12.6,
+    580.1,
+    27.2
+   ]
+  ],
+  "id": "T01",
+  "z740_by_date": [
+   1.3,
+   -0.1,
+   0.8
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.43,
+  "surface": "small compound (S of tailings)",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 21.0,
+   "z740": 2.2
+  }
+ },
+ {
+  "peak": [
+   41.79275,
+   109.89625
+  ],
+  "cells": 44,
+  "peak_z580": 25.4,
+  "mean_z580": 11.5,
+  "dates": "4/4",
+  "elev": 1611,
+  "fit_580": [
+   [
+    7.6,
+    578.7,
+    18.1
+   ],
+   [
+    4.1,
+    580.1,
+    17.1
+   ],
+   [
+    7.4,
+    580.6,
+    17.9
+   ]
+  ],
+  "id": "T02",
+  "z740_by_date": [
+   36.9,
+   19.5,
+   28.8
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.12,
+  "surface": "processing plant (blue roofs, tanks)",
+  "class": "B processed or stockpiled REE material (two-band Nd)",
+  "val2026": {
+   "z580": 1.3,
+   "z740": 6.7
+  }
+ },
+ {
+  "peak": [
+   41.79275,
+   109.86075
+  ],
+  "cells": 53,
+  "peak_z580": 22.0,
+  "mean_z580": 12.0,
+  "dates": "3/3",
+  "elev": 1612,
+  "fit_580": [
+   [
+    10.5,
+    578.6,
+    26.4
+   ],
+   [
+    5.5,
+    580.4,
+    27.7
+   ],
+   [
+    8.9,
+    582.0,
+    28.8
+   ]
+  ],
+  "id": "T03",
+  "z740_by_date": [
+   0.9,
+   0.6,
+   0.8
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.4,
+  "surface": "red-roof buildings, W pit rim",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 12.9,
+   "z740": 0.5
+  }
+ },
+ {
+  "peak": [
+   41.77875,
+   109.88175
+  ],
+  "cells": 6,
+  "peak_z580": 20.9,
+  "mean_z580": 14.3,
+  "dates": "3/3",
+  "elev": 1610,
+  "fit_580": [
+   [
+    14.1,
+    576.5,
+    23.9
+   ],
+   [
+    9.9,
+    577.4,
+    25.8
+   ],
+   [
+    5.9,
+    579.6,
+    28.6
+   ]
+  ],
+  "id": "T04",
+  "z740_by_date": [
+   3.2,
+   2.3,
+   6.3
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.19,
+  "surface": "industrial compound by tailings pond",
+  "class": "B processed or stockpiled REE material (two-band Nd)",
+  "val2026": {
+   "z580": 16.6,
+   "z740": 4.8
+  }
+ },
+ {
+  "peak": [
+   41.79475,
+   109.87025
+  ],
+  "cells": 15,
+  "peak_z580": 18.7,
+  "mean_z580": 11.2,
+  "dates": "3/3",
+  "elev": 1626,
+  "fit_580": [
+   [
+    8.4,
+    578.1,
+    26.7
+   ],
+   [
+    7.6,
+    579.7,
+    28.0
+   ],
+   [
+    9.6,
+    579.9,
+    27.8
+   ]
+  ],
+  "id": "T05",
+  "z740_by_date": [
+   1.3,
+   0.3,
+   0.1
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.36,
+  "surface": "red-roof buildings",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 14.5,
+   "z740": 0.1
+  }
+ },
+ {
+  "peak": [
+   41.79275,
+   109.97625
+  ],
+  "cells": 6,
+  "peak_z580": 11.9,
+  "mean_z580": 9.7,
+  "dates": "3/3",
+  "elev": 1615,
+  "fit_580": [
+   [
+    7.0,
+    578.2,
+    25.0
+   ],
+   [
+    3.9,
+    581.1,
+    25.7
+   ],
+   [
+    10.2,
+    580.7,
+    27.8
+   ]
+  ],
+  "id": "T06",
+  "z740_by_date": [
+   2.2,
+   1.7,
+   1.6
+  ],
+  "z740_dates_gt2": 1,
+  "redness_650_555": 1.2,
+  "surface": "red-roof building at rail loading, S of Main pit",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 16.5,
+   "z740": 1.0
+  }
+ },
+ {
+  "peak": [
+   41.78325,
+   109.88125
+  ],
+  "cells": 8,
+  "peak_z580": 8.0,
+  "mean_z580": 6.5,
+  "dates": "3/3",
+  "elev": 1615,
+  "fit_580": [
+   [
+    6.3,
+    575.8,
+    23.6
+   ],
+   [
+    4.3,
+    577.8,
+    27.5
+   ],
+   [
+    5.1,
+    578.8,
+    27.3
+   ]
+  ],
+  "id": "T07",
+  "z740_by_date": [
+   5.8,
+   2.8,
+   2.0
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.16,
+  "surface": "industrial compound by tailings pond",
+  "class": "B processed or stockpiled REE material (two-band Nd)",
+  "val2026": {
+   "z580": 11.8,
+   "z740": 9.7
+  }
+ },
+ {
+  "peak": [
+   41.77025,
+   109.96575
+  ],
+  "cells": 5,
+  "peak_z580": 6.1,
+  "mean_z580": 5.5,
+  "dates": "3/3",
+  "elev": 1599,
+  "fit_580": [
+   [
+    6.4,
+    575.4,
+    24.1
+   ],
+   [
+    3.3,
+    577.6,
+    28.3
+   ],
+   [
+    4.9,
+    578.7,
+    26.0
+   ]
+  ],
+  "id": "T08",
+  "z740_by_date": [
+   1.1,
+   -0.0,
+   1.1
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.24,
+  "surface": "red-roof housing (town)",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 7.3,
+   "z740": 0.8
+  }
+ },
+ {
+  "peak": [
+   41.80525,
+   109.99625
+  ],
+  "cells": 29,
+  "peak_z580": 6.0,
+  "mean_z580": 5.4,
+  "dates": "3/3",
+  "elev": 1665,
+  "fit_580": [
+   [
+    4.0,
+    577.5,
+    21.3
+   ],
+   [
+    2.6,
+    580.4,
+    22.0
+   ],
+   [
+    3.3,
+    581.1,
+    23.7
+   ]
+  ],
+  "id": "T09",
+  "z740_by_date": [
+   6.9,
+   5.1,
+   8.6
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.08,
+  "surface": "Hot1 excavation benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 4.3,
+   "z740": 3.7
+  }
+ },
+ {
+  "peak": [
+   41.79975,
+   109.96525
+  ],
+  "cells": 17,
+  "peak_z580": 5.8,
+  "mean_z580": 5.3,
+  "dates": "3/3",
+  "elev": 1530,
+  "fit_580": [
+   [
+    3.7,
+    577.3,
+    21.8
+   ],
+   [
+    2.2,
+    580.6,
+    21.4
+   ],
+   [
+    3.4,
+    581.8,
+    23.0
+   ]
+  ],
+  "id": "T10",
+  "z740_by_date": [
+   4.3,
+   3.6,
+   7.3
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.07,
+  "surface": "Main pit benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 7.8,
+   "z740": 5.4
+  }
+ },
+ {
+  "peak": [
+   41.80575,
+   109.99975
+  ],
+  "cells": 2,
+  "peak_z580": 5.3,
+  "mean_z580": 5.3,
+  "dates": "3/3",
+  "elev": 1637,
+  "fit_580": [
+   [
+    4.8,
+    576.9,
+    24.8
+   ],
+   [
+    1.9,
+    580.2,
+    23.8
+   ],
+   [
+    3.9,
+    581.6,
+    25.8
+   ]
+  ],
+  "id": "T11",
+  "z740_by_date": [
+   4.4,
+   4.4,
+   7.2
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.07,
+  "surface": "Hot1 excavation benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 5.2,
+   "z740": 3.9
+  }
+ },
+ {
+  "peak": [
+   41.79875,
+   109.96925
+  ],
+  "cells": 2,
+  "peak_z580": 5.3,
+  "mean_z580": 5.3,
+  "dates": "3/3",
+  "elev": 1533,
+  "fit_580": [
+   [
+    4.2,
+    578.1,
+    26.2
+   ],
+   [
+    2.0,
+    580.6,
+    21.2
+   ],
+   [
+    2.9,
+    582.3,
+    21.7
+   ]
+  ],
+  "id": "T12",
+  "z740_by_date": [
+   2.6,
+   2.5,
+   4.7
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.07,
+  "surface": "Main pit benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 3.6,
+   "z740": 3.2
+  }
+ },
+ {
+  "peak": [
+   41.79025,
+   109.87125
+  ],
+  "cells": 2,
+  "peak_z580": 5.3,
+  "mean_z580": 5.3,
+  "dates": "3/3",
+  "elev": 1614,
+  "fit_580": [
+   [
+    3.3,
+    577.2,
+    23.2
+   ],
+   [
+    3.8,
+    576.9,
+    26.6
+   ],
+   [
+    5.0,
+    578.8,
+    24.3
+   ]
+  ],
+  "id": "T13",
+  "z740_by_date": [
+   -1.1,
+   1.7,
+   -2.7
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.21,
+  "surface": "industrial yard",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 3.3,
+   "z740": 0.8
+  }
+ },
+ {
+  "peak": [
+   41.78975,
+   109.98175
+  ],
+  "cells": 2,
+  "peak_z580": 5.3,
+  "mean_z580": 5.2,
+  "dates": "3/3",
+  "elev": 1598,
+  "fit_580": [
+   [
+    3.8,
+    577.5,
+    18.3
+   ],
+   [
+    1.9,
+    581.8,
+    18.5
+   ],
+   [
+    3.1,
+    580.6,
+    24.0
+   ]
+  ],
+  "id": "T14",
+  "z740_by_date": [
+   1.7,
+   3.1,
+   5.5
+  ],
+  "z740_dates_gt2": 2,
+  "redness_650_555": 1.08,
+  "surface": "dark stockpile by rail loop",
+  "class": "B processed or stockpiled REE material (two-band Nd)",
+  "val2026": {
+   "z580": 3.6,
+   "z740": 2.5
+  }
+ },
+ {
+  "peak": [
+   41.77975,
+   109.98175
+  ],
+  "cells": 2,
+  "peak_z580": 5.3,
+  "mean_z580": 5.3,
+  "dates": "3/3",
+  "elev": 1577,
+  "fit_580": [
+   [
+    5.3,
+    578.5,
+    24.4
+   ],
+   [
+    0.7,
+    577.2,
+    22.6
+   ],
+   [
+    6.0,
+    577.7,
+    25.5
+   ]
+  ],
+  "id": "T15",
+  "z740_by_date": [
+   1.2,
+   3.9,
+   3.5
+  ],
+  "z740_dates_gt2": 2,
+  "redness_650_555": 1.14,
+  "surface": "industrial site by pond (town NE)",
+  "class": "B processed or stockpiled REE material (two-band Nd)",
+  "val2026": {
+   "z580": 1.3,
+   "z740": 2.5
+  }
+ },
+ {
+  "peak": [
+   41.79625,
+   109.97975
+  ],
+  "cells": 1,
+  "peak_z580": 5.2,
+  "mean_z580": 5.2,
+  "dates": "3/3",
+  "elev": 1599,
+  "fit_580": [
+   [
+    4.5,
+    578.1,
+    24.0
+   ],
+   [
+    2.0,
+    580.5,
+    21.8
+   ],
+   [
+    3.6,
+    580.7,
+    22.2
+   ]
+  ],
+  "id": "T16",
+  "z740_by_date": [
+   3.5,
+   3.0,
+   6.6
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.07,
+  "surface": "East pit W rim haul area",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 2.9,
+   "z740": 2.3
+  }
+ },
+ {
+  "peak": [
+   41.80225,
+   109.99975
+  ],
+  "cells": 2,
+  "peak_z580": 5.1,
+  "mean_z580": 5.1,
+  "dates": "3/3",
+  "elev": 1670,
+  "fit_580": [
+   [
+    3.6,
+    577.2,
+    18.4
+   ],
+   [
+    1.8,
+    581.5,
+    20.8
+   ],
+   [
+    4.2,
+    580.6,
+    25.8
+   ]
+  ],
+  "id": "T17",
+  "z740_by_date": [
+   5.3,
+   4.3,
+   5.6
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.0,
+  "surface": "Hot1 excavation benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 4.2,
+   "z740": 3.1
+  }
+ },
+ {
+  "peak": [
+   41.77875,
+   109.87575
+  ],
+  "cells": 1,
+  "peak_z580": 5.1,
+  "mean_z580": 5.1,
+  "dates": "3/3",
+  "elev": 1607,
+  "fit_580": [
+   [
+    4.7,
+    577.2,
+    23.7
+   ],
+   [
+    1.3,
+    581.6,
+    29.5
+   ],
+   [
+    5.0,
+    578.4,
+    25.1
+   ]
+  ],
+  "id": "T18",
+  "z740_by_date": [
+   1.5,
+   1.5,
+   2.7
+  ],
+  "z740_dates_gt2": 1,
+  "redness_650_555": 1.13,
+  "surface": "industrial compound by tailings pond",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 3.5,
+   "z740": 1.6
+  }
+ },
+ {
+  "peak": [
+   41.76925,
+   109.97425
+  ],
+  "cells": 2,
+  "peak_z580": 5.1,
+  "mean_z580": 5.1,
+  "dates": "3/3",
+  "elev": 1603,
+  "fit_580": [
+   [
+    4.7,
+    576.1,
+    22.6
+   ],
+   [
+    2.2,
+    579.7,
+    28.0
+   ],
+   [
+    5.2,
+    580.4,
+    27.9
+   ]
+  ],
+  "id": "T19",
+  "z740_by_date": [
+   -0.1,
+   0.4,
+   -0.9
+  ],
+  "z740_dates_gt2": 0,
+  "redness_650_555": 1.18,
+  "surface": "red-roof housing (town)",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 5.6,
+   "z740": 1.1
+  }
+ },
+ {
+  "peak": [
+   41.80075,
+   109.99725
+  ],
+  "cells": 1,
+  "peak_z580": 5.0,
+  "mean_z580": 5.0,
+  "dates": "3/3",
+  "elev": 1633,
+  "fit_580": [
+   [
+    3.6,
+    577.2,
+    21.3
+   ],
+   [
+    1.4,
+    582.0,
+    20.3
+   ],
+   [
+    3.0,
+    582.0,
+    22.0
+   ]
+  ],
+  "id": "T20",
+  "z740_by_date": [
+   4.5,
+   3.1,
+   6.4
+  ],
+  "z740_dates_gt2": 3,
+  "redness_650_555": 1.08,
+  "surface": "Hot1 excavation benches",
+  "class": "A in-situ ore exposure (two-band Nd)",
+  "val2026": {
+   "z580": 2.9,
+   "z740": 2.5
+  }
+ },
+ {
+  "peak": [
+   41.76375,
+   109.96725
+  ],
+  "cells": 1,
+  "peak_z580": 5.0,
+  "mean_z580": 5.0,
+  "dates": "3/3",
+  "elev": 1613,
+  "fit_580": [
+   [
+    4.2,
+    577.2,
+    23.4
+   ],
+   [
+    1.8,
+    583.0,
+    22.8
+   ],
+   [
+    4.6,
+    580.8,
+    25.3
+   ]
+  ],
+  "id": "T21",
+  "z740_by_date": [
+   2.6,
+   0.3,
+   2.5
+  ],
+  "z740_dates_gt2": 2,
+  "redness_650_555": 1.23,
+  "surface": "red-roof housing (town)",
+  "class": "C rejected: 580 nm only / red surface (roof paint or tiles)",
+  "val2026": {
+   "z580": 5.5,
+   "z740": 1.7
+  }
+ }
+]
